@@ -36,7 +36,7 @@ Sample processing results are available in the `visuals/` directory, showcasing 
 
 #### Example Results:
 
-**Indian Highway Processing:**
+**Foreign Highway Processing:**
 ![Foreign Highway Processed](visuals/ForeignHighWayProcessed.jpg)
 
  *Road segmentation (blue areas), lane detection (red lines), and traffic object detection with class labels on Indian highway infrastructure.*
